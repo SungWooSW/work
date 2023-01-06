@@ -7,6 +7,7 @@ class Solution {
             answer = (double)sum / (i+1);
         }
         
+        System.out.println("수정하였음!!!!!!!");
         
         return answer;
     }
